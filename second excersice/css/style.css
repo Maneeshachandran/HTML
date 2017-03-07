@@ -1,0 +1,68 @@
+#scroll{
+	width: 2500px;
+	height: 500px;
+}
+
+#store{
+	width: 220px;
+	height: 50px;
+}
+
+#download{
+	width: 550px;
+	height: 300px;
+}
+
+#project{
+	width: 500px;
+	height: 300px;
+
+}
+
+h1{
+	text-align: center;
+	font-size: 30px;
+	font-style: italic;
+
+}
+
+.row h2{
+	text-decoration: underline;
+	font-style: italic;
+	
+}
+
+h4{
+	margin-left:20px;
+}
+
+
+
+a{
+	text-decoration: none;
+
+}
+
+nav li{
+	display: inline;
+	padding: 30px;
+	font-size: 20px;
+	float: left;
+}
+
+footer li{
+	display: inline;
+	padding: 15px;
+}
+
+.row{
+	margin-top: 30px;
+}
+
+.container{
+	font-style: italic;
+	font-family: Sofadi One;
+}
+#myCarousel{
+	margin-top: 50px;
+}

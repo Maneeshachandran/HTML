@@ -1,0 +1,148 @@
+.header{
+	background-color:grey;
+	font-size: 80px;
+	width: 960px;
+	text-align: center;
+	position: fixed;
+	margin-top: 0;
+}
+
+nav  li a
+ {
+ 	text-decoration: none;
+ 	color: white;
+
+ }
+
+
+
+ nav li{
+ 	display: inline;
+ 	margin-left: 0;
+ 	margin-right: 30px;
+ 	padding: 5px;
+ 	font-family: sofia;
+ 	font-size: 30px;
+    
+
+
+}
+.main{
+	margin-top: 150px;
+}
+
+.footer a{
+	text-decoration: none;
+}
+
+#content{
+	background-color: cyan;
+}
+
+#review a{
+   font-size: 20px;
+   text-decoration: none;
+   font-style: italic;
+   color: black;
+}
+
+
+
+
+ h1{
+	font-family: sofia;
+	font-size: 500px;
+	color: white;
+	text-align: center;
+	font-style: italic;
+}
+
+
+table {
+    width: 100%;
+
+}
+
+td{
+
+    padding: 15px;
+}
+
+
+input{
+	width:80%;
+}
+
+
+h2{
+	text-decoration: underline; 
+	font-style: italic;
+
+}
+
+h4{
+	text-align: center;
+}
+
+
+#loc{
+	background-color: white;
+	font-size: 20px;
+	font-family:sofia;
+	font-style: italic;
+}
+
+#app{
+
+	width: 550px;
+	height: 300px;
+}
+
+.footer li{
+	display: inline;
+	font-family: Averia Serif Libre;
+	font-size: 20px;
+	color: #5BCEC7;
+}
+
+
+#login{
+	background-color: #E3507F;
+}
+
+
+#star{
+	 width:200px ;
+	 height:40px;
+	  float: right;
+    margin: 0 0 10px 10px;
+}
+
+#title{
+	height: 100px;
+	float: left;
+}
+
+#para{
+	font-size:20px;
+	font-family: Sofia;
+	background-color: white;
+	font-style: italic;
+}
+
+
+#review{
+	font-size:20px;
+	font-family: Sofia;
+	font-style: italic;
+}
+
+
+footer li{
+	display: inline;
+}
+
+.container_12{
+	background-color: white;
+}
+

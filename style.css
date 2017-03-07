@@ -1,0 +1,14 @@
+body{
+	background-color: grey;
+ 	
+}
+
+div{
+	 margin-left: 500px;
+}
+
+#quote{
+	 width: 500px;
+	 border: solid white;
+	 padding: 50px;
+}
